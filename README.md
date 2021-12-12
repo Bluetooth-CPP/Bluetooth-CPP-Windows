@@ -6,13 +6,13 @@ Documentation
 =======
 Add references to BluetoothWindows.h in your .cpp or .h files.
 
-'''#include "<Path of BluetoothWindows.h>"'''
+`#include "<Path of BluetoothWindows.h>"`
 
 Bluetooth Windows Functions
 -----------
   
-void connect(string deviceName)
+`void connect(string deviceName)`
   
-void send(string text)
+`void send(string text)`
   
-string recv()
+`string recv()`
